@@ -1,31 +1,4 @@
-
-{
-  "name": "Web-tool",
-  "version": "2.1.0",
-  "description": "Canvo Tool Web To Web Running Just TERMUX + REPLIT",
-  "main": "web.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mrchandu7/Web.git"
-  },
-  "keywords": [
-    "Web-Tool",
-    "Canvo-tool",
-    "Web To Web",
-    "CHAND-TRICKER-TOOL",
-    "FYT TOLL",
-    "FBSPAM",
-  ],
-  "author": "CHAND TRICKER",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mrchandu7/Web/issues"
-  },
-  "homepage": "https://github.com/Mrchandu7/Web#readme",
-  "dependencies": {
+{dependencies": {
     "axios": "^1.4.0",
     "chalk": "^4.1.2",
     "express": "^4.18.2",
