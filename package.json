@@ -1,8 +1,8 @@
 {
-  "name": "fbspam",
-  "version": "1.0.0",
-  "description": "Facebook messenger spam tool by CommandoRulex",
-  "main": "Comando.js",
+  "name": "Web-tool",
+  "version": "2.1.0",
+  "description": "Canvo tool by Mr Chand",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,18 +11,20 @@
     "url": "git+https://github.com/Comandoboi/ComandoMultiTool.git"
   },
   "keywords": [
-    "fbspam",
-    "comando",
-    "spamtool",
-    "fbspam"
+    "Web-Tool",
+    "Canvo-Tool",
+    "Web-to-web",
+    "tool"
   ],
-  "author": "Commando",
+  "author": "Chand tricker",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/comandoboi/ComandoMultiTool/issues"
   },
   "homepage": "https://github.com/comandoboi/ComandoMultiTool #readme",
   "dependencies": {
+    "chalk": "2.0",
+    "fca-unofficial": "^1.3.10",
     "prompt": "^1.3.0"
   }
 }
